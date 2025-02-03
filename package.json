@@ -3,13 +3,6 @@
   "version": "1.5.8",
   "description": "SDK for Hyperliquid API",
   "type": "module",
-  "exports": {
-    ".": {
-      "types": "./dist/index.d.ts",
-      "import": "./dist/index.js",
-      "require": "./dist/index.cjs"
-    }
-  },
   "files": [
     "src",
     "dist"
